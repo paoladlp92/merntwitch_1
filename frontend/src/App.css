@@ -1,0 +1,139 @@
+.App {
+  text-align: center;
+  justify-content: center;
+
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(194, 15, 15);
+  
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.centered-flex {
+  display: flex;
+  justify-content: center;
+}
+
+div{
+  background-color: bisque;
+
+
+}
+
+.container{
+
+  text-align: center;
+  color: rgb(119, 16, 16);
+  height: 1000px; 
+  font-size: 21px;
+  padding: 10px;
+
+
+
+ 
+
+}
+
+.topimg{
+  transform: translateY(-20%);
+}
+
+.navbar,
+
+
+
+.navbar-default {
+
+  background-image: linear-gradient(to bottom,#aec8e0 0,#b8b4de 100%) !important; /* override background image gradient w/ flat color */
+}
+
+#bio{
+
+  transform: translateY(25%);
+
+}
+
+#rules{
+
+  border-style: solid;
+background-color: #e8d4d4;
+  transform: translateY(5%);
+  text-align: left;
+  font-size: 20px;
+
+}
+
+
+#remember{
+  border-style: solid;
+  border: solid rgb(107, 125, 102);
+background-color: #dce8d4;
+transform: translateY(100%);
+color: rgb(33, 43, 30);
+
+
+}
+
+.explanation{
+  border-style: solid;
+  border: solid rgb(107, 125, 102);
+background-color: #dce8d4;
+transform: translateY(-120%);
+color: rgb(33, 43, 30);
+font-size: 15px;
+
+
+
+}
+
+#bio {
+
+  border-style: solid;
+  border: solid rgb(107, 125, 102);
+background-color: #dce8d4;
+transform: translateY(5%);
+color: rgb(33, 43, 30);
+
+
+}
+
+#bookimg{
+
+  transform: translateY(5%);
+}
+h1 {
+
+  text-align: center;
+}
+
+.btn-primary {
+
+  transform: translateY(-140%) translateX(520%);
+
+}
+
+
+
+#everything{
+  height:2000px;
+}
+
+
+
+
+
+
+
+
